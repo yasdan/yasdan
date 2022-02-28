@@ -1,0 +1,2 @@
+Hello! Welcome to this file. It is a note pad text file.
+It is a simple text ediotor.
